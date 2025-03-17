@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer being actively maintained and will be removed from GitHub on December 31, 2025.
+
 # Damage Assessment Visualizer
 
 The Damage Assessment Visualizer leverages satellite imagery from a disaster region to visualize conditions of building and structures before and after a disaster. It includes a visual layer on top of the satellite images which predicts the extent of damage of individual structures. This information provides critical information for frontline workers on the ground to assist with logistics operations after a disaster hits.
